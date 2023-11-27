@@ -2,11 +2,8 @@
 
 <h2>👨‍💻 JAVA Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 - [Active Directory Home Lab](https://github.com/Mansoorsta10/LABURL)
 - [Hello World!](https://github.com/Mansoorsta10/LABURL)
-
-  
 
 <h2> 🤳 Connect with me:</h2>
 
