@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 JAVA Projects:</h2>
 
-<h3> 👨‍💻 Python Projects: </h3>
+<h2> 👨‍💻 Python Projects: </h2>
 
 <h2> 🤳 Connect with me:</h2>
 
